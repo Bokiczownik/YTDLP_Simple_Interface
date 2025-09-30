@@ -2,6 +2,7 @@
 A simple C# (WinForms) application providing a graphical interface for yt-dlp.
 
 Requirements
+
 yt-dlp – video downloader 
 https://github.com/yt-dlp/yt-dlp
 
