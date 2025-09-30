@@ -12,9 +12,13 @@ https://ffmpeg.org/download.html
 ⚠️ Note: FFmpeg should be added to the PATH environment variable so the application can call it from anywhere.
 
 Features
+
 Download videos or audio using yt-dlp
+
 Choose preferred output format
+
 Integration with FFmpeg for conversion and muxing
 
 Project Status
+
 The project is in an early stage – new features will be added in the future.
